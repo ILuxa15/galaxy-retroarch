@@ -1,0 +1,11 @@
+{
+    "name": "Galaxy RetroArch Plugin for Nintendo Entertainment System",
+    "platform": "nes",
+    "guid": "85c28e0e-cbfc-4594-bbd4-b6b27033caef",
+    "version": "0.1",
+    "description": "Galaxy RetroArch Plugin for Nintendo Entertainment System",
+    "author": "Ilya Tsygankov",
+    "email": "ilya.tsygankov@gmail.com",
+    "url": "TBD",
+    "script": "plugin.py"
+}
